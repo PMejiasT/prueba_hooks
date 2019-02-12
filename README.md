@@ -5,7 +5,7 @@ All kudos for steroyle.
 A Pen created at CodePen.io. You can find this one at http://codepen.io/steroyle/pen/LNzyzP.
 
 
-# Pre-requisites
+# Pre-requisites safa
 
 Install [stylelint](https://github.com/stylelint/stylelint) on your computer.
 
